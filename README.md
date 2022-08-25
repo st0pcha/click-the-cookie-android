@@ -1,7 +1,7 @@
 [![Header](https://github.com/st0pcha/st0pcha/blob/main/assets/header.png)](https://st0pcha.github.io/)
 
 # 🍪 Click The Cookie!
-[![Screenshot](./screenshot.jpg)](https://github.com/st0pcha)
+[![Screenshot](./screenshot.png)](https://github.com/st0pcha)
 
 ### 🏃‍♂️ How to install?
 1. Build project
