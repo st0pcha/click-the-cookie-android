@@ -8,5 +8,5 @@
 2. Move app-debug.apk file to your phone
 3. Install Click the Cookie!
 !OR!
-1. Donwload click-the-cookie.apk
+1. Donwload [click-the-cookie.apk](https://github.com/st0pcha/click-the-cookie-android/releases/download/click-the-cookie-1.0/click-the-cookie.apk)
 2. Install Click the Cookie!
